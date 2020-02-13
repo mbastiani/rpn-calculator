@@ -1,2 +1,2 @@
 # RPNCalculator
-A simple Reverse Polish Notation (RPN) calculator in .Net Core and C#
+A simple Reverse Polish Notation (RPN) calculator in .NET Core and C#
