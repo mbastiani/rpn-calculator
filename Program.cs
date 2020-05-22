@@ -11,7 +11,6 @@ namespace RPNCalculator
             {
                 var result = Calc("15 7 1 1 + - / 3 * 2 1 1 + + -"); // Result = 5;
                 Console.WriteLine(result);
-Console.WriteLine(result);
             }
             catch (Exception ex)
             {
